@@ -1,0 +1,7 @@
+LCDLibrary.c:17:6:LCD_ligar	8	static
+LCDLibrary.c:36:6:LCD_limpar	8	static
+LCDLibrary.c:41:6:LCD_CMD	16	static
+LCDLibrary.c:63:6:LCD_char	16	static
+LCDLibrary.c:98:6:LCD_string	16	static
+LCDLibrary.c:122:6:LCD_char_especial	24	static
+LCDLibrary.c:135:6:LCD_escreve_char_especial	8	static
